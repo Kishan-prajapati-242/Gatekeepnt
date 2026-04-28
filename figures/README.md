@@ -2,7 +2,9 @@
 
 All visualizations used in the paper and exploratory data analysis.
 
-## Paper Figures
+## `paper/`
+
+Figures used in the final report. Files named `table-N` are plots that replace the corresponding tables.
 
 | File | Replaces | Content |
 |------|----------|---------|
@@ -12,7 +14,9 @@ All visualizations used in the paper and exploratory data analysis.
 | `human_eval.png` | — | Human evaluation scores (Simplicity, Completeness, Fluency, Accuracy) |
 | `human_eval_example_output_length.png` | — | Output length comparison across models on MIMIC-IV |
 
-## EDA Figures
+## `eda/`
+
+Exploratory data analysis plots produced by `data/eda.ipynb`.
 
 | File | Content |
 |------|---------|
