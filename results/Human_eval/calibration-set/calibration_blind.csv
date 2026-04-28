@@ -1,0 +1,69 @@
+source,Simplification_A,Simplification_B,Simplification_C
+"PATIENT SUMMARY
+==============
+Ms. ___ is an ___ with a history of HTN, HLD, afib 
+here w/ symptomatic bradycardia and hypotension, found to have 
+complete heart block, s/p permanent pacemaker placement on 
+___, noted to have severe AS on ECHO completed while 
+inpatient.",She was admitted for evaluation of her symptoms and found to have complete heart block (a condition in which the electrical impulses from the heart are blocked) and low blood pressure.,"Here's a simplified version of the medical text in plain language:
+
+**Patient Summary**
+
+Ms. ___ has a history of high blood pressure (HTN) and hardening of the arteries (HLD), as well as irregular heartbeat (afib). She came to the hospital because she was experiencing symptoms such as a slow heart rate (bradycardia) and low blood pressure (hypotension). 
+
+During her stay in the hospital, it was discovered that she had a complete blockage in her heart's electrical system, which means that her heart wasn't beating properly. To fix this issue, a permanent pacemaker was implanted on ___. Additionally, an echocardiogram (ECHO) test showed that she also has severe narrowing of the valve between the heart chambers (AS).
+
+In simpler terms, Ms. ___ has several heart-related issues, including a slow heart rate, low blood pressure, and a blocked heart rhythm. A pacemaker was installed to help regulate her heartbeat, and further testing revealed that she also has a narrowed heart valve.","Patient Summary
+==============
+
+Ms. ___ is an ___ with a history of high blood pressure, high levels of fats in the blood, abnormal heart rate 
+here with symptomatic slow heart rate and low blood pressure, found to have 
+complete heart block, status post permanent pacemaker placement on 
+___, noted to have severe heart artery narrowing on enteric cytopathic human orphan virus completed while 
+inpatient."
+"Mr. ___ is a ___ year-old gentleman with ileocolonic Crohn's 
+previously treated with multiple biologic therapies (IFX, 
+adalimumab, VDZ, USK), ___ c/b portal HTN with EV, GV and 
+ascites, severe PAD s/p multiple interventions on 
+ASA/clopidogrel and DVT on warfarin who presented with with 
+worsening BRBPR, diarrhea and fatigue with colonoscopy 
+concerning for active Crohn's disease.","He has been treated with multiple medications including infliximab, adalimumab, vedolizumab, ustekinumab, ASA, clopidogrel, and warfarin.","Here's a simplified version of the medical text in plain language:
+
+""Mr. __ is a man aged __ years old. He has a condition called Crohn's disease, which affects his lower digestive system. He has tried several different medications to treat this condition, but they haven't been working well.
+
+He also has some other health issues, including high blood pressure in his liver (portal hypertension), swelling in his legs (edema), fluid buildup in his abdomen (ascites), and poor circulation in his legs (peripheral artery disease). He takes medication to prevent blood clots (warfarin) and has had problems with blood thinners before (deep vein thrombosis).
+
+Recently, he started experiencing worsening symptoms of Crohn's disease, including bloody stools, diarrhea, and feeling very tired. A test called a colonoscopy showed signs that suggest the Crohn's disease may be active again.""
+
+Note: I've used the following abbreviations and expanded them for clarity:
+- IFX = Infliximab (a type of biologic therapy)
+- adalimumab = another type of biologic therapy
+- VDZ = Vedolizumab (another type of biologic therapy)
+- USK = Ustekinumab (another type of biologic therapy)
+- ASA = Aspirin (an antiplatelet medication)
+- clopidogrel = an antiplatelet medication
+- EV = Edema (swelling)
+- GV = Gastrointestinal varices (enlarged veins in the stomach or intestines)
+- BRBPR = Bloody rectal bleeding per rectum (bloody stools)
+- PAD = Peripheral Artery Disease (poor circulation in the legs)
+- DVT = Deep Vein Thrombosis (blood clot in a deep vein)","He is a ___ year old man with inflammatory bowel diseases of the colon and the last part of the small intestine previously treated with multiple drugs, chronic high blood pressure in the vessels of his belly area, swelling of the veins in the legs and feet, abnormal buildup of fluid in the belly area, severe peripheral artery disease after multiple interventions on Aspirin/clopidogrel and formation of blood clot in deep vein on warfarin who presented with with worsening bright red blood per rectum, watery stool and fatigue with colonoscopy concerning for active inflammatory bowel diseases of the colon and the last part of the small intestine."
+"This is an ___ year old female with past medical history of HTN, 
+CKD stage 3, remote DVT after pregnancy, admitted ___ with 
+acute left lower extremity DVT, also found to have normocytic 
+anemia, guaiac negative, with normal iron studies, started on 
+anticoagulation with coumadin after discussion with patient and 
+PCP regarding risks and benefits of anticoagulation options, 
+discharged home with lovenox bridge and visiting nursing 
+services for INR checks.",The patient was discharged from hospital with a plan to start warfarin (Coumadin) at home and follow up with her primary care physician.,"Here's a simplified version of the medical text in plain language:
+
+""A 40-year-old woman who has high blood pressure, kidney disease (stage 3), and had a blood clot in her leg during pregnancy many years ago was recently hospitalized because she developed another blood clot in her left leg. 
+
+During her hospital stay, it was discovered that she also has low red blood cells, but tests showed that she doesn't have too little or too much iron in her body. She was given medication called Coumadin to help prevent more clots from forming.
+
+Before starting this treatment, the doctor talked to her about the pros and cons of different options. The patient will be taking a temporary medication called Lovenox until her regular check-ups are done at home by a nurse. This will ensure that the Coumadin is working properly.""","This is an ___ year old female with past medical history of high blood pressure, 
+chronic kidney disease stage 3, remote deep vein blood clot after pregnancy, admitted ___ with 
+acute left leg deep vein blood clot, also found to have normocytic 
+lack of enough healthy red blood cells, test for blood in urine negative, with normal iron studies, started on 
+anticoagulation with coumadin after discussion with patient and primary care provider regarding risks and benefits of anticoagulation options, 
+discharged home with lovenox bridge and visiting nursing 
+services for international normalized ratio checks."
