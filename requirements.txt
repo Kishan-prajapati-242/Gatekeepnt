@@ -1,0 +1,12 @@
+transformers>=4.46
+peft>=0.18
+bitsandbytes>=0.49
+accelerate
+datasets
+sentencepiece
+protobuf
+bert-score
+textstat
+scispacy
+matplotlib
+numpy
