@@ -51,7 +51,7 @@ MIMIC-IV requires CITI training and a signed data use agreement. No patient text
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gatekeepnt.git
+git clone https://github.com/Kishan-prajapati-242/gatekeepnt.git
 cd gatekeepnt
 pip install -r requirements.txt
 ```
