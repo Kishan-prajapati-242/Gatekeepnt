@@ -1,0 +1,5 @@
+{
+  "Simplification_A": "exp2_sells_only",
+  "Simplification_B": "exp1_zero_shot",
+  "Simplification_C": "exp3_mixed"
+}
