@@ -1,3 +1,29 @@
+# === Project-specific ===
+
+# Patient data (MIMIC — credentialed, must not be public)
+**/mimic_*
+**/discharge_*
+**/*mimic*predictions*
+
+# Model weights (too large for GitHub)
+*.bin
+*.safetensors
+*.gguf
+models/
+**/merged_bf16/
+**/checkpoint-*/
+
+# HuggingFace tokens (security)
+**/hf_*
+
+# Colab widget metadata
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# === Python (auto-generated below) ===
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
