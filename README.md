@@ -33,8 +33,10 @@ Northeastern University · CS 6120 Natural Language Processing · Spring 2026
 | 2 | SELLS-only QLoRA FT | Does multi-domain mixing help? |
 | 3a | Mixed FT, max_len=1024 | **Main experiment** |
 | 3b | Mixed FT, max_len=1536 | Is 1024 sufficient? |
-| 4a | BioBART-v2-large zero-shot | Encoder-decoder baseline |
-| 4c | FLAN-T5-large zero-shot | Instruction-tuned enc-dec baseline |
+| 4a | BioBART-v2-large zero-shot | Encoder-decoder baseline (zero-shot) |
+| 4b | BioBART-v2-large fine-tuned | Encoder-decoder baseline (fine-tuned) |
+| 4c | FLAN-T5-large zero-shot | Instruction-tuned enc-dec baseline (zero-shot) |
+| 4d | FLAN-T5-large fine-tuned | Instruction-tuned enc-dec baseline (fine-tuned) |
 
 ## Data Access
 
