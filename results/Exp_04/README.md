@@ -5,7 +5,7 @@ Architecture baselines comparing encoder-decoder models against the decoder-only
 | Exp | Model | Setup | Training | Best Step |
 |-----|-------|-------|----------|-----------|
 | 4a | BioBART-v2-large | Zero-shot | — | — |
-| 4b | BioBART-v2-large | Full fine-tune | Mixed, lr=3e-5, eff_batch=64 | 1000 (early stop) |
+| 4b | BioBART-v2-large | Full fine-tune | Mixed, lr=3e-5, eff_batch=64 | 1000 (early stop at 2500) |
 | 4c | FLAN-T5-large | Zero-shot | — | — |
 | 4d | FLAN-T5-large | Full fine-tune | Mixed, lr=3e-5, eff_batch=64 | 11000 |
 
